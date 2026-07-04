@@ -100,7 +100,7 @@ MongoDB (accounts)
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/backend-system-nodejs.git
+git clone https://github.com/rahulroot7/financial-transaction-processor-backend-system-nodejs.git
 
 cd backend-system-nodejs
 ```
